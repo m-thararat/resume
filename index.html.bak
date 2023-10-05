@@ -24,7 +24,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&amp;family=Ramabhadra&amp;family=Yantramanav:wght@700&amp;display=swap"
 
-      rel="stylesheet"><a href="https://www.flaticon.com/free-icons/telephone" title="telephone icons">Telephone
+      rel="stylesheet">
+  </head>
+  <body><a href="https://www.flaticon.com/free-icons/telephone" title="telephone icons">Telephone
       icons created by Uniconlabs - Flaticon</a> <a href="https://www.flaticon.com/free-icons/gmail"
 
       title="gmail icons">Gmail icons created by Pixel perfect - Flaticon</a> <a
@@ -33,8 +35,6 @@
       icons created by Ruslan Babkin - Flaticon</a> <a href="https://www.flaticon.com/free-icons/facebook"
 
       title="facebook icons">Facebook icons created by Ruslan Babkin - Flaticon</a>
-  </head>
-  <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mx-auto p-4 fixed-top">
       <div class="container-fluid"> <a class="navbar-brand" href="#">Thararat
           Samranjit</a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -65,8 +65,7 @@
       <div class="text-center"> <br>
         <br>
         <br>
-        <h8> Tharar<a id="at">at</a> Samranjit </h8>
-       <br>
+        <h8> Tharar<a id="at">at</a> Samranjit </h8> <br>
         <br>
       </div>
     </div>
@@ -80,21 +79,23 @@
             <h2><a name="About" id="About"></a>About</h2>
           </div>
           <br>
-          <h3> Name : Thararat Samranjit <br>
-            <br>
-            Birthday : 2 November 2002 <br>
-            <br>
-            Nationality : Thai <br>
-            <br>
-            Address : 89/18 Moo.5 Banmai <br>
-            Sampran Nakhon Pathom 73110 </h3>
+          <div class="mx-2">
+            <h3> Name : Thararat Samranjit <br>
+              <br>
+              Birthday : 2 November 2002 <br>
+              <br>
+              Nationality : Thai <br>
+              <br>
+              Address : 89/18 Moo.5 Banmai <br>
+              Sampran Nakhon Pathom 73110 </h3>
+          </div>
         </div>
         <div class="col-md-4"> <br>
           <div class="text-center"><br>
             <h2>Contacts</h2>
           </div>
           <br>
-          <h3> <img src="images/phone-call.png" class="img-fluid" alt="phone" height="45"
+          <div class="mx-2"><h3> <img src="images/phone-call.png" class="img-fluid" alt="phone" height="45"
 
               width="45"> 0990650412 <br>
             <br>
@@ -108,7 +109,7 @@
             <br>
             <img src="images/facebook.png" class="img-fluid" alt="facebook" height="40"
 
-              width="40"> Thararat Samran<a id="njit">jit</a> </h3>
+                 width="40"> Thararat Samran<a id="njit">jit</a> </h3></div>
         </div>
       </div>
       <br>
@@ -215,7 +216,9 @@
               </li>
             </ul>
           </div>
-          <img src="images/josephupatham_logo-removebg-preview.png" class="img-fluid" "rounded-circle" alt="โรงเรียน" height="=140" width="140"><br>
+          <img src="images/josephupatham_logo-removebg-preview.png" class="img-fluid"
+
+            "rounded-circle"="" alt="โรงเรียน" height="=140" width="140"><br>
           <br>
           <p>High School <br>
             Joseph Upatham,Nakhon Pathom <br>
